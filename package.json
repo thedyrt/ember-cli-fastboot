@@ -20,7 +20,7 @@
     "test:precook": "node node_modules/ember-cli-addon-tests/scripts/precook-node-modules.js"
   },
   "dependencies": {
-    "broccoli-concat": "^3.7.1",
+    "broccoli-concat": "3.7.1",
     "broccoli-funnel": "^2.0.1",
     "broccoli-merge-trees": "^3.0.1",
     "broccoli-plugin": "^1.3.1",
